@@ -1,4 +1,4 @@
-![](image/vdvv.jpg))
+![](image/vdvv.jpg)
 
 # 线性回归(LinearRegression)
 
@@ -20,7 +20,7 @@ import pandas as pd
 data = pd.read_csv('Simple Linear Regression.csv')
 data.head()
 ```
-![](fvrevr.png)
+![](image/fvrevr.png)
 
 staff_wage_mean 是我们的x变量，shanghai_GDP是目标变量。
 
